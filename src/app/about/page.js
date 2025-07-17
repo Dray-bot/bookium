@@ -22,7 +22,7 @@ export default function AboutPage() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.8 }}
         >
-          Bookium isn’t just an online bookstore it’s a love letter to every book lover out there.
+          Bookium isn&rsquo;t just an online bookstore &mdash; it&rsquo;s a love letter to every book lover out there.
           It was built on a simple mission: to make finding and buying books feel magical again.
         </motion.p>
 
@@ -33,7 +33,7 @@ export default function AboutPage() {
           transition={{ delay: 0.3, duration: 0.8 }}
         >
           In a world filled with distractions, Bookium brings you back to the core of it all: stories, 
-          knowledge, imagination. Whether you're a student chasing the next textbook, a night owl with 
+          knowledge, imagination. Whether you&rsquo;re a student chasing the next textbook, a night owl with 
           a thing for fantasy, or just someone who misses the feeling of getting lost in a great read,
           Bookium is here to make that journey effortless.
         </motion.p>
@@ -44,10 +44,10 @@ export default function AboutPage() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4, duration: 0.8 }}
         >
-          We believe books are more than just pages they’re passports. To other worlds, new perspectives, 
+          We believe books are more than just pages &mdash; they&rsquo;re passports. To other worlds, new perspectives, 
           and better versions of ourselves. Bookium exists to keep that magic alive. With a clean, 
-          focused interface and a curated library built for readers in Nigeria, this isn’t about having 
-          everything it’s about having the right things.
+          focused interface and a curated library built for readers in Nigeria, this isn&rsquo;t about having 
+          everything &mdash; it&rsquo;s about having the right things.
         </motion.p>
 
         <motion.p
@@ -67,7 +67,7 @@ export default function AboutPage() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.6, duration: 0.8 }}
         >
-          So if you’re someone who believes that one book can change your life you’re in the right place. 
+          So if you&rsquo;re someone who believes that one book can change your life &mdash; you&rsquo;re in the right place. 
           Welcome to Bookium. Welcome home.
         </motion.p>
 
