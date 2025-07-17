@@ -62,7 +62,7 @@ const Testimonials = () => {
           transition={{ delay: 0.2, duration: 0.6 }}
           className="text-lg md:text-xl text-gray-600 mb-12"
         >
-          Here's what the Bookium fam's got to say.
+          {"Here's what the Bookium fam's got to say."}
         </motion.p>
 
         <Swiper
